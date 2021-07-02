@@ -6,3 +6,5 @@ This LMS is very useful to Manage Books in Library. It can handle to
 - view book list: View complete books available in library
 - issue book: Issue book to student 
 - return book: Return book from student to library.
+
+main.py - This includes a main file that calls all the functionalities available.
