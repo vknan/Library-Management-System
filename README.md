@@ -1,4 +1,4 @@
-# Library-Management-System
+# Python-Library-Management-System
 LMS-Library Management System.
 This LMS is very useful to Manage Books in Library. It can handle to 
 - add books: This includes to register a new book and add it to database.
