@@ -8,3 +8,8 @@ This LMS is very useful to Manage Books in Library. It can handle to
 - return book: Return book from student to library.
 
 main.py - This includes a main file that calls all the functionalities available. run it!!!
+
+# Before Running it create a local database with the following commands and change username and mypass in the addbooks, deletebooks, viewbook, issuebook, returnbook files.
+- create database db;
+- create table books(bid varchar(20) primary key, title varchar(30), author varchar(30), status varchar(30));
+- create table books_issued(bid varchar(20) primary key, issuedto varchar(30));
